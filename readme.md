@@ -1,9 +1,9 @@
 ## 5Meals. 
-5Meals es una aplicación de nutrición y ejercicio físico que desarrollé para el Trabajo de Fin de Grado de Ingeniería de la Salud. 
+5Meals es una aplicación de nutrición y ejercicio físico que desarrollé para el <b>Trabajo de Fin de Grado de Ingeniería de la Salud</b>. 
 
-El proyecto se desarrolló utilizando el patrón MVC (Model, View, Controller). 
+El proyecto se desarrolló utilizando el patrón <b>MVC (Model, View, Controller) </b>. 
 
-Para su desarrollo, utilicé principalmente el lenguaje PHP y para las vistas, utilicé otros lenguajes como CSS, HTML, JQuery y Javascript. Todo se desarrolló sobre el framework Laravel. 
+Para su desarrollo, utilicé principalmente el lenguaje <b>PHP</b> y para las vistas, utilicé otros lenguajes como <b>CSS, HTML, JQuery y Javascript</b>. Todo se desarrolló sobre el framework <b>Laravel</b>. 
 
 5Meals ha sido creada con la intención de facilitar las consultas de nutrición, entre sus funciones se destaca: 
 - Sistema de autentificación para usuarios 
