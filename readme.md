@@ -17,4 +17,4 @@ Para su desarrollo, utilicé principalmente el lenguaje <b>PHP</b> y para las vi
 - Posibilidad de agregar,editar,listar y eliminar alimentos de la base de datos por parte del usuario médico. 
 - Posibilidad de agregar,editar,listar y eliminar ejercicios de la base de datos por parte del usuario médico.
 
-Para poder ver un video de la aplicación, diriguirse al siguiente enlace <a href="https://www.youtube.com/watch?v=MPWTwEDYSYM&feature=youtu.be">5Meals</a>
+Para poder ver un video de la aplicación, diríjase al siguiente enlace <a href="https://www.youtube.com/watch?v=MPWTwEDYSYM&feature=youtu.be">5Meals</a>
